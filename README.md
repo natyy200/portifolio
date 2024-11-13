@@ -1,3 +1,1 @@
 # portifólio
-
-> Pior
