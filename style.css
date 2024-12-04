@@ -7,6 +7,7 @@
 }
 
 body {
+    /* font-family: 'Chakra Petch', sans-serif; */
     font-family: "Poppins", sans-serif;
 }
 
@@ -15,8 +16,16 @@ h1, h2, h5 {
     font-weight: 700;
 }
 
+.lead, .btn-link {
+    color: var(--cor-destaque);
+    font-weight: 700;
+}
+
+a, .btn-link:hover {
+    color: var(--cor-principal)
+}
 footer a {
-    color: var(--cor-principal);
+    color: var(--cor-principal)
 }
 
 footer a:hover {
